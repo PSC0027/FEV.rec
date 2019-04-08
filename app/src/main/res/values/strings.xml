@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MultipkeLayoutTry2</string>
+    <string name="RecordbuttonName">Record</string>
+    <string name="appbarTag">FEV.rec</string>
+    <string name="RecordButton_contentDescription">Call Record Activity</string>
+    <string name="Background_contentDescription">Background</string>
+    <string name="Tag">&#160;&#160;FEV.rec</string>
+    <string name="PauseButtonName">Pause</string>
+    <string name="Nema_TV_ChooseCylinderQuantity">Cylinder Quantity</string>
+    <string name="Name_TV_ChooseSamplingRate">Sampling Rate</string>
+    <string name="Name_TV_ChooseBlockSize">Block size of FFT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Speed_Example">7000</string>
+    <string name="Description_Tacho_Photo">Tacho background</string>
+    <string name="Description_Spectrum_Photo">Spectrum example for presentation</string>
+</resources>
